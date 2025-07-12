@@ -1,0 +1,401 @@
+State,City,Crime_Type,Status,Date,Latitude,Longitude
+Andhra Pradesh,Visakhapatnam,Theft,Solved,2023-01-17,20.184862,83.785527
+Andhra Pradesh,Visakhapatnam,Cyber Crime,Solved,2023-01-26,12.067699,69.695587
+Andhra Pradesh,Vijayawada,Kidnapping,Pending,2023-05-28,18.397434,83.215732
+Andhra Pradesh,Vijayawada,Cyber Crime,Pending,2023-07-11,22.55376,93.610229
+Andhra Pradesh,Guntur,Murder,Pending,2023-04-14,32.927488,85.697642
+Andhra Pradesh,Guntur,Theft,Pending,2023-09-09,34.122655,91.784559
+Andhra Pradesh,Nellore,Murder,Solved,2023-09-21,36.686427,69.99752
+Andhra Pradesh,Nellore,Cyber Crime,Solved,2023-11-10,17.057449,90.407515
+Andhra Pradesh,Kurnool,Cyber Crime,Solved,2023-05-11,36.919753,74.221223
+Andhra Pradesh,Kurnool,Assault,Solved,2023-06-14,32.365099,91.517928
+Andhra Pradesh,Kakinada,Murder,Pending,2023-11-18,35.768516,82.593054
+Andhra Pradesh,Kakinada,Kidnapping,Solved,2023-05-07,23.223087,77.696595
+Andhra Pradesh,Rajahmundry,Assault,Pending,2023-12-13,28.950492,95.91572
+Andhra Pradesh,Rajahmundry,Cyber Crime,Solved,2023-10-06,11.394817,86.100987
+Andhra Pradesh,Tirupati,Robbery,Solved,2023-03-22,14.720741,96.318243
+Andhra Pradesh,Tirupati,Theft,Pending,2023-01-25,22.180763,76.113036
+Andhra Pradesh,Anantapur,Assault,Solved,2023-12-15,21.564324,83.095324
+Andhra Pradesh,Anantapur,Assault,Pending,2023-07-01,16.801878,79.215563
+Andhra Pradesh,Kadapa,Theft,Pending,2023-04-24,31.195186,70.494988
+Andhra Pradesh,Kadapa,Kidnapping,Solved,2023-01-10,9.95883,82.476908
+Andhra Pradesh,Machilipatnam,Theft,Solved,2023-09-21,36.249943,73.149564
+Andhra Pradesh,Machilipatnam,Assault,Solved,2023-06-21,10.152738,74.408392
+Andhra Pradesh,Eluru,Kidnapping,Solved,2023-08-25,31.429914,70.204181
+Andhra Pradesh,Eluru,Robbery,Solved,2023-06-08,8.333662,92.583217
+Andhra Pradesh,Ongole,Kidnapping,Pending,2023-01-18,17.254069,76.256107
+Andhra Pradesh,Ongole,Kidnapping,Solved,2023-09-04,9.378083,72.54482
+Andhra Pradesh,Srikakulam,Cyber Crime,Pending,2023-12-21,25.949054,72.43231
+Andhra Pradesh,Srikakulam,Theft,Solved,2023-12-14,31.131669,87.795474
+Andhra Pradesh,Chittoor,Robbery,Pending,2023-05-03,22.469121,85.8257
+Andhra Pradesh,Chittoor,Assault,Solved,2023-05-08,28.361548,90.564154
+Andhra Pradesh,Tenali,Kidnapping,Solved,2023-04-26,22.03309,81.906343
+Andhra Pradesh,Tenali,Robbery,Solved,2023-04-20,21.585682,75.234744
+Andhra Pradesh,Proddatur,Cyber Crime,Solved,2023-06-02,18.049178,87.622728
+Andhra Pradesh,Proddatur,Cyber Crime,Pending,2023-04-12,20.949537,83.836576
+Andhra Pradesh,Nandyal,Robbery,Pending,2023-12-18,24.769659,95.132434
+Andhra Pradesh,Nandyal,Kidnapping,Pending,2023-07-20,19.983168,70.711061
+Andhra Pradesh,Adoni,Cyber Crime,Pending,2023-10-15,35.973852,95.32459
+Andhra Pradesh,Adoni,Cyber Crime,Pending,2023-03-10,26.693109,76.745567
+Andhra Pradesh,Tadepalligudem,Kidnapping,Solved,2023-09-04,13.732938,91.58059
+Andhra Pradesh,Tadepalligudem,Murder,Pending,2023-03-29,11.908544,88.638827
+Bihar,Patna,Robbery,Solved,2023-02-20,36.799512,77.103912
+Bihar,Patna,Assault,Solved,2023-03-08,15.911401,93.634597
+Bihar,Gaya,Theft,Solved,2023-10-02,23.461703,92.757843
+Bihar,Gaya,Assault,Solved,2023-04-03,25.727249,91.752352
+Bihar,Bhagalpur,Murder,Solved,2023-07-12,23.87891,93.434076
+Bihar,Bhagalpur,Assault,Pending,2023-05-02,23.611079,88.075257
+Bihar,Muzaffarpur,Theft,Solved,2023-02-06,9.774083,76.605788
+Bihar,Muzaffarpur,Murder,Solved,2023-12-29,13.136728,95.844202
+Bihar,Purnia,Murder,Solved,2023-09-22,28.263256,81.832764
+Bihar,Purnia,Kidnapping,Pending,2023-06-29,9.530506,87.778777
+Bihar,Darbhanga,Robbery,Solved,2023-08-13,26.405286,80.251175
+Bihar,Darbhanga,Cyber Crime,Solved,2023-02-08,28.50859,93.34621
+Bihar,Arrah,Theft,Pending,2023-10-15,15.436847,87.936347
+Bihar,Arrah,Cyber Crime,Solved,2023-06-24,34.346704,75.801525
+Bihar,Begusarai,Murder,Solved,2023-12-04,12.379678,69.178379
+Bihar,Begusarai,Theft,Pending,2023-06-30,18.844894,80.591277
+Bihar,Katihar,Murder,Pending,2023-05-11,21.666142,86.505564
+Bihar,Katihar,Kidnapping,Solved,2023-02-17,12.711188,74.219378
+Bihar,Munger,Assault,Solved,2023-07-31,8.373757,96.874039
+Bihar,Munger,Robbery,Pending,2023-03-27,36.255891,78.669137
+Bihar,Chhapra,Cyber Crime,Pending,2023-12-31,31.46734,72.659764
+Bihar,Chhapra,Murder,Solved,2023-09-06,14.159799,90.130016
+Bihar,Bettiah,Theft,Pending,2023-07-14,33.545842,72.972992
+Bihar,Bettiah,Murder,Pending,2023-03-27,31.679434,79.485462
+Bihar,Saharsa,Cyber Crime,Pending,2023-10-30,32.986648,91.068064
+Bihar,Saharsa,Assault,Pending,2023-09-12,27.720249,89.57724
+Bihar,Hajipur,Assault,Pending,2023-04-30,14.371804,94.457483
+Bihar,Hajipur,Cyber Crime,Pending,2023-07-08,35.991839,92.01029
+Bihar,Siwan,Assault,Pending,2023-08-16,32.881793,94.714687
+Bihar,Siwan,Robbery,Solved,2023-01-14,28.372895,84.623613
+Bihar,Motihari,Robbery,Solved,2023-12-24,34.793565,78.899728
+Bihar,Motihari,Theft,Pending,2023-12-25,18.582553,77.820809
+Bihar,Dehri,Cyber Crime,Solved,2023-11-12,28.530774,93.714514
+Bihar,Dehri,Theft,Solved,2023-12-10,16.950661,90.307671
+Bihar,Buxar,Murder,Solved,2023-12-05,29.364839,96.228933
+Bihar,Buxar,Kidnapping,Solved,2023-06-23,21.996961,77.086043
+Bihar,Samastipur,Theft,Solved,2023-04-11,21.245522,73.963154
+Bihar,Samastipur,Assault,Solved,2023-02-25,8.470288,79.125314
+Bihar,Jehanabad,Robbery,Pending,2023-11-21,22.213478,93.120012
+Bihar,Jehanabad,Theft,Pending,2023-01-31,30.585261,92.767589
+Maharashtra,Mumbai,Robbery,Pending,2023-01-03,19.798915,71.268345
+Maharashtra,Mumbai,Kidnapping,Solved,2023-07-31,28.573864,73.126858
+Maharashtra,Pune,Theft,Pending,2023-06-21,22.348384,84.36008
+Maharashtra,Pune,Cyber Crime,Solved,2023-02-21,34.20986,85.590558
+Maharashtra,Nagpur,Assault,Solved,2023-10-06,15.703288,83.445974
+Maharashtra,Nagpur,Cyber Crime,Pending,2023-01-17,36.901619,69.510809
+Maharashtra,Nashik,Assault,Solved,2023-10-24,13.150235,89.185782
+Maharashtra,Nashik,Kidnapping,Pending,2023-11-23,34.513195,83.395602
+Maharashtra,Thane,Robbery,Solved,2023-11-17,17.611009,84.00103
+Maharashtra,Thane,Murder,Pending,2023-10-15,17.799892,93.015288
+Maharashtra,Aurangabad,Kidnapping,Pending,2023-08-22,26.444152,95.225904
+Maharashtra,Aurangabad,Assault,Solved,2023-07-15,25.925445,88.041764
+Maharashtra,Solapur,Cyber Crime,Pending,2023-01-20,13.505149,74.214288
+Maharashtra,Solapur,Robbery,Pending,2023-04-17,16.848385,71.360729
+Maharashtra,Amravati,Murder,Pending,2023-01-31,8.165204,94.498359
+Maharashtra,Amravati,Kidnapping,Solved,2023-07-05,19.541381,74.152739
+Maharashtra,Kolhapur,Theft,Solved,2023-10-31,28.456133,80.876625
+Maharashtra,Kolhapur,Cyber Crime,Pending,2023-11-05,13.436042,68.960412
+Maharashtra,Nanded,Murder,Solved,2023-08-06,36.881493,73.697653
+Maharashtra,Nanded,Robbery,Solved,2023-02-02,28.772961,76.143179
+Maharashtra,Sangli,Assault,Solved,2023-11-02,21.055696,90.151073
+Maharashtra,Sangli,Robbery,Pending,2023-05-07,10.617052,82.845689
+Maharashtra,Malegaon,Theft,Pending,2023-02-14,15.501286,73.300292
+Maharashtra,Malegaon,Theft,Solved,2023-01-04,35.800768,94.703218
+Maharashtra,Akola,Murder,Pending,2023-10-15,36.327487,85.69821
+Maharashtra,Akola,Assault,Pending,2023-04-25,15.363519,86.085304
+Maharashtra,Latur,Kidnapping,Pending,2023-01-31,20.940279,79.381047
+Maharashtra,Latur,Kidnapping,Solved,2023-06-28,9.684839,95.610917
+Maharashtra,Dhule,Murder,Pending,2023-08-20,15.61251,80.269175
+Maharashtra,Dhule,Murder,Solved,2023-09-23,20.308743,71.767082
+Maharashtra,Ahmednagar,Murder,Pending,2023-08-03,27.608236,78.967388
+Maharashtra,Ahmednagar,Cyber Crime,Pending,2023-08-31,29.147132,79.957607
+Maharashtra,Ichalkaranji,Robbery,Solved,2023-05-02,35.186851,88.344123
+Maharashtra,Ichalkaranji,Assault,Solved,2023-10-14,27.484115,91.069774
+Maharashtra,Jalgaon,Theft,Pending,2023-06-25,19.892467,69.666049
+Maharashtra,Jalgaon,Murder,Pending,2023-10-12,27.2597,88.055384
+Maharashtra,Chandrapur,Theft,Pending,2023-12-10,8.736833,90.234504
+Maharashtra,Chandrapur,Cyber Crime,Pending,2023-06-27,30.243139,85.55327
+Maharashtra,Parbhani,Theft,Solved,2023-10-02,9.558872,74.948034
+Maharashtra,Parbhani,Theft,Pending,2023-01-08,26.863953,77.012045
+Uttar Pradesh,Lucknow,Robbery,Pending,2023-12-16,27.531475,70.978422
+Uttar Pradesh,Lucknow,Theft,Solved,2023-08-15,24.393136,92.708876
+Uttar Pradesh,Kanpur,Kidnapping,Solved,2023-12-22,34.932085,70.45576
+Uttar Pradesh,Kanpur,Theft,Pending,2023-09-13,35.083719,71.604424
+Uttar Pradesh,Ghaziabad,Murder,Pending,2023-08-02,29.793033,90.60644
+Uttar Pradesh,Ghaziabad,Murder,Solved,2023-09-09,21.592154,75.577066
+Uttar Pradesh,Agra,Kidnapping,Pending,2023-03-16,27.959036,90.193532
+Uttar Pradesh,Agra,Assault,Pending,2023-11-09,11.809234,81.913624
+Uttar Pradesh,Varanasi,Robbery,Pending,2023-05-02,18.539753,96.582415
+Uttar Pradesh,Varanasi,Kidnapping,Solved,2023-04-02,12.952137,96.947969
+Uttar Pradesh,Meerut,Theft,Pending,2023-10-09,11.124643,86.817187
+Uttar Pradesh,Meerut,Assault,Pending,2023-10-03,29.306258,92.4846
+Uttar Pradesh,Prayagraj,Kidnapping,Solved,2023-12-30,21.47994,70.362573
+Uttar Pradesh,Prayagraj,Assault,Solved,2023-06-18,23.375167,82.209838
+Uttar Pradesh,Bareilly,Kidnapping,Solved,2023-03-20,26.518938,94.13557
+Uttar Pradesh,Bareilly,Theft,Pending,2023-11-13,26.288607,94.880868
+Uttar Pradesh,Aligarh,Cyber Crime,Pending,2023-11-30,35.143409,87.069671
+Uttar Pradesh,Aligarh,Kidnapping,Pending,2023-03-10,23.081395,76.047634
+Uttar Pradesh,Moradabad,Assault,Solved,2023-05-25,19.937622,81.620351
+Uttar Pradesh,Moradabad,Assault,Pending,2023-05-10,21.516554,70.521244
+Uttar Pradesh,Saharanpur,Robbery,Pending,2023-12-03,14.200634,86.311036
+Uttar Pradesh,Saharanpur,Assault,Solved,2023-12-09,17.459655,78.8106
+Uttar Pradesh,Gorakhpur,Theft,Pending,2023-07-18,8.794096,77.154645
+Uttar Pradesh,Gorakhpur,Assault,Pending,2023-03-20,27.483783,73.65943
+Uttar Pradesh,Faizabad,Cyber Crime,Solved,2023-11-04,36.321305,93.896461
+Uttar Pradesh,Faizabad,Assault,Pending,2023-04-15,33.349653,74.421737
+Uttar Pradesh,Jhansi,Kidnapping,Pending,2023-11-28,16.869942,95.567822
+Uttar Pradesh,Jhansi,Robbery,Pending,2023-01-21,22.507579,69.768862
+Uttar Pradesh,Noida,Kidnapping,Solved,2023-10-20,30.09719,93.169454
+Uttar Pradesh,Noida,Robbery,Pending,2023-07-23,34.060983,77.142111
+Uttar Pradesh,Rampur,Cyber Crime,Pending,2023-08-21,21.683742,69.290017
+Uttar Pradesh,Rampur,Assault,Pending,2023-02-03,28.033107,72.228122
+Uttar Pradesh,Firozabad,Cyber Crime,Pending,2023-01-17,11.788333,96.619052
+Uttar Pradesh,Firozabad,Cyber Crime,Pending,2023-06-29,16.106141,71.267538
+Uttar Pradesh,Etawah,Kidnapping,Solved,2023-06-11,32.508981,84.659923
+Uttar Pradesh,Etawah,Assault,Pending,2023-08-20,27.50334,69.006218
+Uttar Pradesh,Sitapur,Assault,Pending,2023-10-09,8.339866,86.754178
+Uttar Pradesh,Sitapur,Theft,Pending,2023-01-18,24.858578,93.793082
+Uttar Pradesh,Mathura,Theft,Solved,2023-06-07,24.718739,69.226829
+Uttar Pradesh,Mathura,Cyber Crime,Solved,2023-12-19,18.617424,80.440281
+Karnataka,Bengaluru,Kidnapping,Solved,2023-02-02,8.131386,71.644836
+Karnataka,Bengaluru,Robbery,Solved,2023-09-08,16.648236,94.976721
+Karnataka,Mysore,Cyber Crime,Solved,2023-12-07,33.459512,71.040786
+Karnataka,Mysore,Robbery,Solved,2023-12-26,28.885092,78.890958
+Karnataka,Hubli,Murder,Pending,2023-05-02,26.623831,70.51702
+Karnataka,Hubli,Theft,Solved,2023-09-12,34.939763,71.785535
+Karnataka,Mangalore,Theft,Solved,2023-08-09,32.405434,71.952384
+Karnataka,Mangalore,Assault,Solved,2023-12-08,18.626561,87.685499
+Karnataka,Belgaum,Theft,Solved,2023-10-08,23.902926,76.406384
+Karnataka,Belgaum,Assault,Pending,2023-04-13,27.679886,92.287462
+Karnataka,Davanagere,Murder,Pending,2023-02-28,23.268543,73.96442
+Karnataka,Davanagere,Assault,Solved,2023-01-01,24.120296,87.13106
+Karnataka,Bellary,Cyber Crime,Pending,2023-05-11,14.531376,74.784492
+Karnataka,Bellary,Cyber Crime,Pending,2023-10-23,29.248743,69.142334
+Karnataka,Tumkur,Assault,Pending,2023-07-30,35.250094,86.902737
+Karnataka,Tumkur,Murder,Solved,2023-01-13,11.557435,87.519839
+Karnataka,Raichur,Kidnapping,Pending,2023-01-17,28.665232,83.60548
+Karnataka,Raichur,Murder,Solved,2023-07-14,36.377882,94.95949
+Karnataka,Bidar,Kidnapping,Solved,2023-04-04,17.633722,84.095309
+Karnataka,Bidar,Theft,Solved,2023-09-07,10.45741,69.411746
+Karnataka,Hospet,Assault,Pending,2023-09-29,29.745113,78.281115
+Karnataka,Hospet,Murder,Pending,2023-10-14,13.50552,86.858824
+Karnataka,Hassan,Murder,Pending,2023-06-09,28.482712,84.325053
+Karnataka,Hassan,Kidnapping,Solved,2023-03-30,9.179875,95.308112
+Karnataka,Shimoga,Theft,Pending,2023-05-09,27.939902,75.256628
+Karnataka,Shimoga,Assault,Pending,2023-08-15,19.70249,73.48082
+Karnataka,Bagalkot,Theft,Pending,2023-11-20,19.437984,79.087243
+Karnataka,Bagalkot,Robbery,Pending,2023-02-05,25.793555,88.773525
+Karnataka,Bijapur,Theft,Solved,2023-08-08,31.068067,88.481485
+Karnataka,Bijapur,Robbery,Pending,2023-12-11,16.282168,69.709812
+Karnataka,Chikmagalur,Robbery,Pending,2023-03-24,12.200637,84.444339
+Karnataka,Chikmagalur,Kidnapping,Solved,2023-02-18,26.820293,87.323647
+Karnataka,Kolar,Theft,Solved,2023-11-30,29.987329,90.984338
+Karnataka,Kolar,Robbery,Pending,2023-10-06,20.730494,93.271554
+Karnataka,Mandya,Assault,Solved,2023-10-04,31.493369,74.83358
+Karnataka,Mandya,Theft,Pending,2023-10-19,20.746193,85.679272
+Karnataka,Udupi,Kidnapping,Pending,2023-10-27,8.68192,93.695814
+Karnataka,Udupi,Kidnapping,Pending,2023-07-14,20.92274,71.461495
+Karnataka,Gulbarga,Cyber Crime,Solved,2023-12-13,25.903036,68.383819
+Karnataka,Gulbarga,Murder,Solved,2023-12-23,17.518804,71.738382
+Tamil Nadu,Chennai,Cyber Crime,Pending,2023-07-28,35.051999,87.416327
+Tamil Nadu,Chennai,Murder,Pending,2023-05-16,21.920501,74.553886
+Tamil Nadu,Coimbatore,Robbery,Solved,2023-08-20,26.565439,73.256374
+Tamil Nadu,Coimbatore,Cyber Crime,Solved,2023-05-27,25.231855,70.751418
+Tamil Nadu,Madurai,Theft,Pending,2023-03-31,28.134746,86.660986
+Tamil Nadu,Madurai,Theft,Solved,2023-04-29,8.580734,82.23839
+Tamil Nadu,Tiruchirappalli,Theft,Pending,2023-08-07,24.937044,94.876505
+Tamil Nadu,Tiruchirappalli,Robbery,Pending,2023-10-06,16.636079,95.098948
+Tamil Nadu,Salem,Theft,Solved,2023-03-08,16.344421,96.012679
+Tamil Nadu,Salem,Cyber Crime,Solved,2023-03-17,35.124807,93.384866
+Tamil Nadu,Tirunelveli,Murder,Solved,2023-09-13,24.906448,79.385985
+Tamil Nadu,Tirunelveli,Theft,Solved,2023-07-15,16.818987,81.005912
+Tamil Nadu,Vellore,Cyber Crime,Solved,2023-07-31,22.882912,74.754884
+Tamil Nadu,Vellore,Cyber Crime,Pending,2023-03-18,28.216091,78.608617
+Tamil Nadu,Thoothukudi,Murder,Pending,2023-10-31,36.451554,77.087615
+Tamil Nadu,Thoothukudi,Theft,Solved,2023-11-16,14.442627,69.624394
+Tamil Nadu,Erode,Theft,Pending,2023-03-14,15.780429,71.432192
+Tamil Nadu,Erode,Kidnapping,Solved,2023-10-12,28.236761,69.264114
+Tamil Nadu,Dindigul,Kidnapping,Pending,2023-11-17,18.10152,76.148394
+Tamil Nadu,Dindigul,Murder,Pending,2023-07-13,24.405392,79.519896
+Tamil Nadu,Cuddalore,Murder,Solved,2023-01-13,9.441881,76.098029
+Tamil Nadu,Cuddalore,Murder,Solved,2023-11-01,26.222493,74.639426
+Tamil Nadu,Nagapattinam,Assault,Solved,2023-03-24,32.743114,75.476022
+Tamil Nadu,Nagapattinam,Kidnapping,Solved,2023-04-01,9.74438,86.09625
+Tamil Nadu,Kanchipuram,Assault,Solved,2023-10-20,8.824489,90.798374
+Tamil Nadu,Kanchipuram,Theft,Pending,2023-10-11,26.651671,76.17189
+Tamil Nadu,Tiruvannamalai,Kidnapping,Pending,2023-10-01,32.882964,91.001249
+Tamil Nadu,Tiruvannamalai,Murder,Solved,2023-10-31,17.987146,96.801207
+Tamil Nadu,Thanjavur,Assault,Solved,2023-09-23,32.064107,88.255162
+Tamil Nadu,Thanjavur,Murder,Pending,2023-09-14,35.615937,92.578127
+Tamil Nadu,Nagercoil,Robbery,Pending,2023-02-12,25.624376,77.672339
+Tamil Nadu,Nagercoil,Robbery,Solved,2023-11-06,29.122388,93.046807
+Tamil Nadu,Karur,Robbery,Solved,2023-08-12,18.085161,83.73092
+Tamil Nadu,Karur,Cyber Crime,Solved,2023-10-08,17.18691,85.342579
+Tamil Nadu,Villupuram,Theft,Pending,2023-02-17,28.047699,87.450986
+Tamil Nadu,Villupuram,Cyber Crime,Pending,2023-01-06,29.460453,74.397695
+Tamil Nadu,Namakkal,Cyber Crime,Pending,2023-07-16,22.22521,85.833531
+Tamil Nadu,Namakkal,Theft,Solved,2023-01-24,34.396858,79.457032
+Tamil Nadu,Hosur,Robbery,Solved,2023-10-04,33.360647,73.160216
+Tamil Nadu,Hosur,Assault,Solved,2023-08-09,24.348886,69.870959
+West Bengal,Kolkata,Kidnapping,Solved,2023-10-03,10.86695,79.168163
+West Bengal,Kolkata,Assault,Pending,2023-08-23,36.243419,83.316406
+West Bengal,Asansol,Assault,Solved,2023-02-05,17.45222,74.842503
+West Bengal,Asansol,Murder,Pending,2023-07-20,23.742641,94.925884
+West Bengal,Siliguri,Kidnapping,Pending,2023-05-14,31.530115,68.230307
+West Bengal,Siliguri,Kidnapping,Pending,2023-09-02,13.496017,90.366973
+West Bengal,Durgapur,Theft,Pending,2023-08-05,8.111688,87.083306
+West Bengal,Durgapur,Murder,Solved,2023-07-11,9.077937,73.089139
+West Bengal,Bardhaman,Theft,Pending,2023-10-20,28.901317,92.702779
+West Bengal,Bardhaman,Assault,Pending,2023-07-15,26.715138,85.551301
+West Bengal,Malda,Robbery,Solved,2023-09-17,10.81187,90.23769
+West Bengal,Malda,Kidnapping,Solved,2023-12-15,17.353762,70.319267
+West Bengal,Berhampore,Theft,Pending,2023-03-21,32.216667,76.495446
+West Bengal,Berhampore,Kidnapping,Pending,2023-03-29,21.082619,91.460299
+West Bengal,Jalpaiguri,Murder,Pending,2023-09-17,29.36866,79.357039
+West Bengal,Jalpaiguri,Assault,Solved,2023-05-19,15.157758,85.471644
+West Bengal,Bankura,Theft,Pending,2023-10-03,33.839179,85.004065
+West Bengal,Bankura,Theft,Solved,2023-03-17,36.781887,83.967664
+West Bengal,Kharagpur,Robbery,Solved,2023-09-23,21.246017,91.291057
+West Bengal,Kharagpur,Robbery,Pending,2023-01-25,18.478423,88.724461
+West Bengal,Haldia,Assault,Solved,2023-05-25,31.163907,92.786903
+West Bengal,Haldia,Murder,Solved,2023-09-18,22.459573,73.358902
+West Bengal,Raiganj,Assault,Pending,2023-09-11,21.373093,81.158652
+West Bengal,Raiganj,Murder,Solved,2023-10-17,19.023056,77.039046
+West Bengal,Serampore,Robbery,Solved,2023-12-05,33.88081,86.611412
+West Bengal,Serampore,Kidnapping,Pending,2023-11-22,21.451286,76.432804
+West Bengal,Krishnanagar,Assault,Solved,2023-12-31,24.468128,68.831094
+West Bengal,Krishnanagar,Cyber Crime,Solved,2023-03-09,30.018184,90.227581
+West Bengal,Balurghat,Murder,Pending,2023-10-18,16.745034,69.545499
+West Bengal,Balurghat,Robbery,Pending,2023-12-23,30.742571,92.591363
+West Bengal,Darjeeling,Assault,Pending,2023-12-25,15.075244,86.463492
+West Bengal,Darjeeling,Kidnapping,Solved,2023-05-19,19.525094,70.080552
+West Bengal,Habra,Assault,Pending,2023-09-25,34.276002,69.921587
+West Bengal,Habra,Murder,Solved,2023-12-11,8.853985,93.379879
+West Bengal,Raniganj,Theft,Solved,2023-03-15,17.823088,71.016996
+West Bengal,Raniganj,Theft,Pending,2023-02-18,14.906391,79.872357
+West Bengal,Howrah,Cyber Crime,Pending,2023-09-22,19.603753,78.276406
+West Bengal,Howrah,Cyber Crime,Pending,2023-03-27,10.223042,95.998707
+West Bengal,Chinsurah,Murder,Pending,2023-05-24,25.74663,69.477511
+West Bengal,Chinsurah,Robbery,Solved,2023-11-16,17.741497,95.665406
+Madhya Pradesh,Bhopal,Kidnapping,Pending,2023-07-12,30.848235,90.695081
+Madhya Pradesh,Bhopal,Cyber Crime,Pending,2023-08-16,10.948328,91.656676
+Madhya Pradesh,Indore,Kidnapping,Pending,2023-09-26,33.035751,69.768304
+Madhya Pradesh,Indore,Cyber Crime,Solved,2023-09-29,8.672889,81.66546
+Madhya Pradesh,Jabalpur,Robbery,Solved,2023-10-13,31.558657,91.100602
+Madhya Pradesh,Jabalpur,Theft,Solved,2023-03-16,35.023923,73.640779
+Madhya Pradesh,Gwalior,Assault,Pending,2023-07-20,16.282882,72.038458
+Madhya Pradesh,Gwalior,Robbery,Pending,2023-05-13,9.609962,68.501141
+Madhya Pradesh,Ujjain,Robbery,Solved,2023-10-13,14.53734,86.432368
+Madhya Pradesh,Ujjain,Murder,Pending,2023-01-09,27.042993,76.35766
+Madhya Pradesh,Sagar,Assault,Pending,2023-12-26,21.595158,77.436493
+Madhya Pradesh,Sagar,Cyber Crime,Solved,2023-12-07,16.55201,85.408822
+Madhya Pradesh,Ratlam,Robbery,Pending,2023-06-19,32.601355,78.073821
+Madhya Pradesh,Ratlam,Kidnapping,Pending,2023-11-16,11.33319,77.97146
+Madhya Pradesh,Rewa,Assault,Pending,2023-11-15,33.915255,95.831643
+Madhya Pradesh,Rewa,Assault,Solved,2023-10-28,35.643024,72.524906
+Madhya Pradesh,Satna,Cyber Crime,Solved,2023-12-30,34.296663,77.67319
+Madhya Pradesh,Satna,Kidnapping,Pending,2023-01-08,34.002892,70.861985
+Madhya Pradesh,Dewas,Robbery,Pending,2023-03-27,12.480365,83.344146
+Madhya Pradesh,Dewas,Cyber Crime,Solved,2023-06-16,34.405496,84.115994
+Madhya Pradesh,Chhindwara,Kidnapping,Solved,2023-04-12,33.48747,76.901253
+Madhya Pradesh,Chhindwara,Cyber Crime,Pending,2023-10-08,33.07366,78.524906
+Madhya Pradesh,Damoh,Assault,Pending,2023-08-25,8.585569,78.606726
+Madhya Pradesh,Damoh,Robbery,Solved,2023-02-28,28.361956,73.008586
+Madhya Pradesh,Hoshangabad,Cyber Crime,Solved,2023-12-31,35.121538,79.517039
+Madhya Pradesh,Hoshangabad,Robbery,Pending,2023-07-18,9.272123,92.745133
+Madhya Pradesh,Itarsi,Murder,Solved,2023-07-23,13.042473,94.064438
+Madhya Pradesh,Itarsi,Kidnapping,Pending,2023-04-22,33.15213,69.127258
+Madhya Pradesh,Katni,Theft,Solved,2023-12-19,23.277,93.80439
+Madhya Pradesh,Katni,Robbery,Solved,2023-06-06,18.175115,81.038519
+Madhya Pradesh,Burhanpur,Robbery,Pending,2023-12-26,33.740453,83.928093
+Madhya Pradesh,Burhanpur,Murder,Pending,2023-03-12,21.630049,84.636696
+Madhya Pradesh,Sehore,Cyber Crime,Pending,2023-11-15,17.137601,71.329169
+Madhya Pradesh,Sehore,Kidnapping,Solved,2023-10-15,31.22285,88.264351
+Madhya Pradesh,Vidisha,Assault,Solved,2023-01-04,21.769985,89.791997
+Madhya Pradesh,Vidisha,Murder,Pending,2023-05-23,28.360192,79.288585
+Madhya Pradesh,Mandsaur,Kidnapping,Pending,2023-02-26,26.397534,84.425397
+Madhya Pradesh,Mandsaur,Murder,Pending,2023-04-02,15.38929,93.39164
+Madhya Pradesh,Neemuch,Murder,Solved,2023-07-13,13.645208,91.696597
+Madhya Pradesh,Neemuch,Cyber Crime,Pending,2023-05-19,32.560242,92.937349
+Rajasthan,Jaipur,Murder,Solved,2023-04-14,27.224393,89.661832
+Rajasthan,Jaipur,Theft,Pending,2023-04-05,31.711265,69.060068
+Rajasthan,Jodhpur,Assault,Solved,2023-04-23,29.422054,68.353096
+Rajasthan,Jodhpur,Assault,Pending,2023-11-15,8.222905,95.182601
+Rajasthan,Kota,Cyber Crime,Pending,2023-04-10,18.730761,77.998156
+Rajasthan,Kota,Robbery,Pending,2023-07-02,32.187515,71.183777
+Rajasthan,Bikaner,Kidnapping,Solved,2023-09-10,17.990868,79.223729
+Rajasthan,Bikaner,Assault,Solved,2023-01-23,15.257538,87.621386
+Rajasthan,Ajmer,Cyber Crime,Solved,2023-06-04,36.806338,75.26354
+Rajasthan,Ajmer,Murder,Pending,2023-07-14,30.650958,93.277369
+Rajasthan,Udaipur,Kidnapping,Pending,2023-05-10,22.462709,76.291118
+Rajasthan,Udaipur,Kidnapping,Solved,2023-02-14,28.427764,78.54105
+Rajasthan,Alwar,Cyber Crime,Solved,2023-09-25,30.610171,68.128459
+Rajasthan,Alwar,Assault,Solved,2023-06-08,9.057449,95.253028
+Rajasthan,Bhilwara,Theft,Pending,2023-04-19,14.904278,89.883131
+Rajasthan,Bhilwara,Assault,Solved,2023-11-02,23.110641,91.653344
+Rajasthan,Sikar,Assault,Pending,2023-06-07,19.833793,68.168715
+Rajasthan,Sikar,Kidnapping,Pending,2023-09-21,17.259196,91.642638
+Rajasthan,Pali,Cyber Crime,Solved,2023-09-20,9.382555,93.55099
+Rajasthan,Pali,Murder,Pending,2023-01-09,27.602975,71.906512
+Rajasthan,Sri Ganganagar,Cyber Crime,Pending,2023-01-11,28.252359,78.836458
+Rajasthan,Sri Ganganagar,Kidnapping,Solved,2023-12-22,27.281566,82.949374
+Rajasthan,Hanumangarh,Cyber Crime,Pending,2023-03-12,22.480279,72.731439
+Rajasthan,Hanumangarh,Robbery,Solved,2023-11-24,27.72608,82.783639
+Rajasthan,Churu,Kidnapping,Pending,2023-08-16,33.403884,90.802622
+Rajasthan,Churu,Theft,Solved,2023-11-06,8.93948,84.385163
+Rajasthan,Jhunjhunu,Cyber Crime,Solved,2023-08-18,9.607264,69.742645
+Rajasthan,Jhunjhunu,Theft,Pending,2023-08-02,35.605441,80.904332
+Rajasthan,Tonk,Robbery,Pending,2023-04-03,32.004625,90.757636
+Rajasthan,Tonk,Assault,Pending,2023-06-13,20.483313,90.943587
+Rajasthan,Barmer,Robbery,Solved,2023-07-17,29.878981,71.789782
+Rajasthan,Barmer,Murder,Solved,2023-03-07,25.836462,91.41716
+Rajasthan,Banswara,Cyber Crime,Solved,2023-06-21,23.065094,90.959186
+Rajasthan,Banswara,Theft,Pending,2023-10-31,17.084908,83.805737
+Rajasthan,Nagaur,Theft,Solved,2023-11-04,24.45415,79.024666
+Rajasthan,Nagaur,Assault,Solved,2023-09-12,25.683518,77.704794
+Rajasthan,Dausa,Theft,Pending,2023-07-16,18.29811,76.016776
+Rajasthan,Dausa,Robbery,Solved,2023-12-13,23.538151,69.560645
+Rajasthan,Bharatpur,Robbery,Solved,2023-05-08,26.38815,74.193029
+Rajasthan,Bharatpur,Assault,Pending,2023-09-17,9.631475,74.271873
+Gujarat,Ahmedabad,Murder,Solved,2023-04-01,10.590369,72.081842
+Gujarat,Ahmedabad,Theft,Solved,2023-09-21,8.719633,89.965326
+Gujarat,Surat,Cyber Crime,Pending,2023-06-11,26.416003,80.492813
+Gujarat,Surat,Assault,Pending,2023-10-30,20.747413,90.093836
+Gujarat,Vadodara,Theft,Pending,2023-11-06,8.43431,93.09574
+Gujarat,Vadodara,Theft,Solved,2023-08-02,20.149595,90.862499
+Gujarat,Rajkot,Assault,Solved,2023-08-30,15.456883,76.894598
+Gujarat,Rajkot,Kidnapping,Solved,2023-05-23,36.548846,70.19368
+Gujarat,Bhavnagar,Cyber Crime,Solved,2023-02-25,13.452556,88.129995
+Gujarat,Bhavnagar,Kidnapping,Pending,2023-10-04,12.080667,70.389625
+Gujarat,Jamnagar,Robbery,Solved,2023-02-01,19.315862,73.33401
+Gujarat,Jamnagar,Murder,Pending,2023-12-09,8.158592,95.102298
+Gujarat,Gandhinagar,Assault,Solved,2023-06-11,10.626538,79.115835
+Gujarat,Gandhinagar,Murder,Pending,2023-02-07,36.518517,90.951106
+Gujarat,Junagadh,Murder,Pending,2023-12-20,35.054262,78.960729
+Gujarat,Junagadh,Robbery,Solved,2023-08-08,21.049499,91.599853
+Gujarat,Anand,Theft,Solved,2023-02-19,27.807863,77.507994
+Gujarat,Anand,Assault,Pending,2023-06-24,11.25935,68.962599
+Gujarat,Navsari,Robbery,Pending,2023-08-29,9.610736,78.746366
+Gujarat,Navsari,Theft,Solved,2023-01-01,35.399271,93.553169
+Gujarat,Morbi,Murder,Pending,2023-03-09,30.671788,74.152115
+Gujarat,Morbi,Kidnapping,Solved,2023-12-17,8.041548,68.932203
+Gujarat,Mehsana,Robbery,Pending,2023-02-27,31.402278,91.476665
+Gujarat,Mehsana,Assault,Solved,2023-04-30,16.139605,95.917984
+Gujarat,Nadiad,Robbery,Pending,2023-01-10,31.344346,70.532099
+Gujarat,Nadiad,Assault,Solved,2023-07-30,18.747754,77.084673
+Gujarat,Bharuch,Kidnapping,Solved,2023-02-07,15.073945,89.589199
+Gujarat,Bharuch,Robbery,Pending,2023-11-09,18.306928,85.867369
+Gujarat,Vapi,Assault,Pending,2023-01-22,9.223165,77.877265
+Gujarat,Vapi,Assault,Pending,2023-06-05,19.051147,82.397499
+Gujarat,Surendranagar,Kidnapping,Pending,2023-12-10,30.77584,86.302093
+Gujarat,Surendranagar,Theft,Pending,2023-02-28,17.385931,87.57019
+Gujarat,Amreli,Kidnapping,Pending,2023-09-07,13.232367,86.338386
+Gujarat,Amreli,Theft,Pending,2023-12-23,32.479738,70.88578
+Gujarat,Porbandar,Theft,Solved,2023-04-05,21.478149,74.977249
+Gujarat,Porbandar,Assault,Solved,2023-11-26,30.630533,74.082464
+Gujarat,Godhra,Kidnapping,Pending,2023-02-05,31.29588,72.818981
+Gujarat,Godhra,Robbery,Solved,2023-12-01,28.390414,88.972652
+Gujarat,Botad,Murder,Solved,2023-02-10,33.605371,95.834555
+Gujarat,Botad,Murder,Pending,2023-01-19,33.447972,70.583981
